@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Html/Css/Javascript**
 
-- 👨‍💻 All of my projects are available at [https://kmistry.netlify.app/](https://kmistry.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kartikmistry.netlify.app/](https://kartikmistry.netlify.app/)
 
 - 💬 Ask me about **Frontend Web development**
 
